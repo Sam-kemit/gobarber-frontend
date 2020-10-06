@@ -11,8 +11,8 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Sam-kemit/gobarber-frontend?color=%23FF9000">
 
-  <a href="https://www.linkedin.com/in/eliasgcf/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-elias%20gabriel-%23FF9000">
+  <a href="https://www.linkedin.com/in/samuel-kueta-930a92112/" target="_blank" rel="noopener noreferrer">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-samuel%20kueta-%23FF9000">
   </a>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Sam-kemit/gobarber-frontend?color=%23FF9000">
